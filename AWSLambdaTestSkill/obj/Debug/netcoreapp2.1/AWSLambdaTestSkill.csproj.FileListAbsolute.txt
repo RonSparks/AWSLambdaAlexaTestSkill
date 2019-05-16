@@ -1,0 +1,8 @@
+C:\Users\Ron Spark\source\repos\AWSLambdaTestSkill\AWSLambdaTestSkill\bin\Debug\netcoreapp2.1\AWSLambdaTestSkill.deps.json
+C:\Users\Ron Spark\source\repos\AWSLambdaTestSkill\AWSLambdaTestSkill\bin\Debug\netcoreapp2.1\AWSLambdaTestSkill.runtimeconfig.json
+C:\Users\Ron Spark\source\repos\AWSLambdaTestSkill\AWSLambdaTestSkill\bin\Debug\netcoreapp2.1\AWSLambdaTestSkill.runtimeconfig.dev.json
+C:\Users\Ron Spark\source\repos\AWSLambdaTestSkill\AWSLambdaTestSkill\bin\Debug\netcoreapp2.1\AWSLambdaTestSkill.dll
+C:\Users\Ron Spark\source\repos\AWSLambdaTestSkill\AWSLambdaTestSkill\obj\Debug\netcoreapp2.1\AWSLambdaTestSkill.csprojAssemblyReference.cache
+C:\Users\Ron Spark\source\repos\AWSLambdaTestSkill\AWSLambdaTestSkill\obj\Debug\netcoreapp2.1\AWSLambdaTestSkill.csproj.CoreCompileInputs.cache
+C:\Users\Ron Spark\source\repos\AWSLambdaTestSkill\AWSLambdaTestSkill\obj\Debug\netcoreapp2.1\AWSLambdaTestSkill.AssemblyInfoInputs.cache
+C:\Users\Ron Spark\source\repos\AWSLambdaTestSkill\AWSLambdaTestSkill\obj\Debug\netcoreapp2.1\AWSLambdaTestSkill.AssemblyInfo.cs
